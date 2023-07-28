@@ -29,6 +29,7 @@
 
 
 
+[Verified with google](/google61ab7d36b17db7bb.html)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
